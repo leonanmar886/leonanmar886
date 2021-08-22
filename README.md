@@ -1,6 +1,6 @@
 ### Hi there 👋. My name is Leonan, and I'm a Java ☕ and front-end 💻 developer.
 
- <div>
+ <div style="display: inline-block">
   <a href="https://github.com/leonanmar886">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonanmar886&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonanmar886&layout=compact&langs_count=7&theme=dark"/>
