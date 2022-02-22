@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Leonan, and I'm a Java ☕ and JavaScript 💻 developer.
+### Hi there 👋. My name is Leonan, and I'm a FullStack 💻 developer.
 
  <div>
   <a href="https://github.com/leonanmar886">
